@@ -2,7 +2,7 @@ Summary:	LGeneral game - collection of Panzer General scenarios from various aut
 Summary(pl.UTF-8):	Gra Linux General - zbiór scenariuszy różnych autorów dla gry Panzer General
 Name:		lgeneral-addon-scenpack
 Version:	20110815
-Release:	1
+Release:	2
 License:	unknown
 Group:		Applications/Games
 Source0:	http://lgames.sourceforge.net/LGeneral/addons/scenpack.zip
